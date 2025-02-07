@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on raw input</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on raw input</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2025 22:50:16 -0300</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sbuble</title>
+      <link>//localhost:1313/posts/abuble/</link>
+      <pubDate>Thu, 06 Feb 2025 22:50:16 -0300</pubDate>
+      <guid>//localhost:1313/posts/abuble/</guid>
+      <description>&lt;p&gt;asdasd&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>//localhost:1313/posts/post/</link>
+      <pubDate>Thu, 06 Feb 2025 15:07:58 -0300</pubDate>
+      <guid>//localhost:1313/posts/post/</guid>
+      <description>&lt;p&gt;asfsd&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
